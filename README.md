@@ -109,4 +109,4 @@ python cabin.py --config cabin_caltech
 
 ## Acknowledgements
 
-This repository has been built drawing inspiration from the codebases of [DA-Fusion](https://github.com/brandontrabucco/da-fusion) and [DALDA](https://github.com/kkyuhun94/dalda). Utilizing this code requires adherence to their respective licensing agreements.
+This repository has been built drawing inspiration from the codebases of [DA-Fusion](https://github.com/brandontrabucco/da-fusion) and [DALDA](https://github.com/kkyuhun94/dalda). Utilizing this code requires adherence to their respective licensing agreements. 
